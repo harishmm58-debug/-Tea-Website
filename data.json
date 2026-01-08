@@ -1,0 +1,7 @@
+{
+  "teas": [
+    { "name": "Green Tea", "price": 120 },
+    { "name": "Black Tea", "price": 100 },
+    { "name": "Herbal Tea", "price": 150 }
+  ]
+}
